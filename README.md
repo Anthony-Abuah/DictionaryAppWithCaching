@@ -1,2 +1,2 @@
 # DictionaryAppWithCaching
-Using RoomDB to cache/save searched for words from a remote dictionary api
+Using RoomDB to cache/save searched words from a remote dictionary api
